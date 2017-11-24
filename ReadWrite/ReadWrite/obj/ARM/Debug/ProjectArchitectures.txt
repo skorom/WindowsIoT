@@ -1,0 +1,1 @@
+C:\Users\Szilárd\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Dokumentumok\ELTE\TDK\IoT\Eloadas\ReadWrite\ReadWrite\ReadWrite.csproj;arm
